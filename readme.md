@@ -3,6 +3,7 @@
 A fast, in-memory search engine for concierge messages that delivers sub-20ms response times. Built with FastAPI and designed to handle 3000+ messages with instant search capabilities.
 
 **Live Demo:** `[YOUR_DEPLOYMENT_URL_HERE]`
+> **Note:** This API is deployed on Render's free tier, which causes the service to become inactive after periods of no traffic. If you're accessing the API for the first time or after a period of inactivity, it may take 30-60 seconds to spin up. Thank you for your patience!
 
 ## 🎯 Project Overview
 
