@@ -2,7 +2,7 @@
 
 A fast, in-memory search engine for concierge messages that delivers sub-20ms response times. Built with FastAPI and designed to handle 3000+ messages with instant search capabilities.
 
-**Live Demo:** `[YOUR_DEPLOYMENT_URL_HERE]`
+**Live Demo:** `https://message-search-engine-api.onrender.com`
 > **Note:** This API is deployed on Render's free tier, which causes the service to become inactive after periods of no traffic. If you're accessing the API for the first time or after a period of inactivity, it may take 30-60 seconds to spin up. Thank you for your patience!
 
 ## 🎯 Project Overview
@@ -363,9 +363,8 @@ If I were to build this differently:
 
 ## 🔗 Links
 
-- **Live API**: `[ADD YOUR DEPLOYMENT URL]`
-- **Interactive Docs**: `[YOUR_URL]/docs`
-- **GitHub**: `[YOUR REPO URL]`
+- **Live API**: `https://message-search-engine-api.onrender.com`
+- **GitHub**: `https://github.com/prateek10201/Message-Search-Engine-API`
 
 ## 💡 Usage
 
@@ -393,7 +392,7 @@ If I were to build this differently:
 
 ## 🚀 Live Demo
 
-**Deployed API:** `[YOUR_DEPLOYMENT_URL]`
+**Deployed API:** `https://message-search-engine-api.onrender.com`
 
 **Example Queries:**
 - Search for "Paris": `GET /search?q=paris&page=1&limit=10`
