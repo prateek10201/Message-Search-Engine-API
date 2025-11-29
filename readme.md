@@ -57,7 +57,7 @@ Both versions easily beat the 100ms requirement and achieve the 30ms bonus goal.
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/prateek10201/Message-Search-Engine-API.git
 cd message-search-api
 
 # Create virtual environment
